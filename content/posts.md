@@ -1,6 +1,6 @@
 # Posts
 
-### | Weights and Biases
+#### |Weights and Biases
 
 * [Real Time Social Distance Detector](https://wandb.ai/social-distance-detector/real-time-social-distance-detector/reports/Real-Time-Social-Distance-Detector--Vmlldzo0Njc3OTI)
 
@@ -8,7 +8,7 @@
 
 ---
 
-### | My Blogs
+#### |My Blogs
 
 * [A Tour Of Policy Gradients
 ](https://tech-a-way-blog.vercel.app/policy_gradients_rl.html)

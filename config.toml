@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "http://localhost:1313/"
 title   = "Piyush Thakur"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -126,11 +126,11 @@ disableHugoGeneratorInject = false
     logoText     = "$ cd /cosmo3769/"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
-    # logoCursorDisabled = false
+    logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "#67a2c9"
+    # logoCursorColor    = "#FFC0CB"
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
-    # logoCursorAnimate  = "2s"
+    logoCursorAnimate  = "2s"
 
   # Commento is more than just a comments widget you can embed — 
   # it’s a return to the roots of the internet. 
@@ -146,7 +146,7 @@ disableHugoGeneratorInject = false
   # Uncomment this if you want a portrait on your start page
   #
   [params.portrait]
-    path     = "/images/piyush.jpg"
+    path     = "/image/pic.png/"
     alt      = "Portrait"
     maxWidth = "150px"
     
@@ -204,4 +204,4 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "resume"
     name       = "Resume"
-    url        = "resume/"
+    url        = "Resume-Piyush Thakur.pdf/"
