@@ -1,4 +1,4 @@
-### Hola amigos
+### Hola amigos 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-cosmo&label=Views&color=blue&style=plastic" alt="piyush-cosmo" /> </p>
 
