@@ -13,9 +13,9 @@
 <a href="https://www.linkedin.com/in/cosmo3769/">
   <img align="left" alt="Thakur's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/cosmo3769">
+<!-- <a href="https://github.com/cosmo3769">
   <img align="left" alt="Thakur's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+</a> -->
 
 
 <br/>
